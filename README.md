@@ -1,2 +1,2 @@
 # VSD_Digital_VLSI_SoC_design
-Day 1
+(https://github.com/Santhosh1901/VSD_Digital_VLSI_SoC_design/blob/main/README.md)
