@@ -19,7 +19,13 @@
 
 -> When synthesis_run command is exexcuted the design is synthesized.
 
+![318109026-fba6793c-dd78-4d1b-bbac-8669dc018a6f](https://github.com/Santhosh1901/VSD_Digital_VLSI_SoC_design/assets/66910104/847328cb-f289-45e0-9304-99107cd822a9)
+
 -> From the final synthesis statistic report we obtain the Flop Ratio which is equal to No Of DFF/Total No of Cells
+![VirtualBox_vsdworkshop_02_04_2024_12_12_55](https://github.com/Santhosh1901/VSD_Digital_VLSI_SoC_design/assets/66910104/5e84a8bf-f960-463e-95f7-b1b567e60046)
+
+
+
 
 
 
